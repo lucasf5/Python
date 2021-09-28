@@ -1,4 +1,3 @@
 # Python
-## Estudos em *Python*.
-### Exercícios realizados durante cursos.
+### Estudos em *Python*.
 
