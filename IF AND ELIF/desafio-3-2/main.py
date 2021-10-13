@@ -7,15 +7,15 @@
 # – Não existe valor maior, os dois são iguais.
 
 
-x = int(input('Digite um numero:'))
-y = int(input('Digite um numero:'))
+x = int(input("Digite um numero:"))
+y = int(input("Digite um numero:"))
 
 
 if x > y:
-  print('O primeiro valor é maior!')
-  print('O segundo valor é menor!')
+    print("O primeiro valor é maior!")
+    print("O segundo valor é menor!")
 elif x < y:
-  print('O segundo valor é maior!')
-  print('O primeiro valor é menor!')
+    print("O segundo valor é maior!")
+    print("O primeiro valor é menor!")
 elif x == y:
-  print('Não existe valor maior, os dois são iguais.')
+    print("Não existe valor maior, os dois são iguais.")
